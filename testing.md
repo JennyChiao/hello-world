@@ -3,7 +3,7 @@ x=5
 class
 ```
 
-See so this way I can take notes for programming a lot easier. Always use \ for escaping 
+See so this way I can take notes for programming a lot easier. Always use \ for escaping.
 
 # The Largest Heading is just one \#
 ## A little smaller heading without a line
